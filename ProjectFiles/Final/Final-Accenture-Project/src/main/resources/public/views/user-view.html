@@ -1,0 +1,35 @@
+<div class="container pad-top">
+  <table class="table usertable">
+      <tr>
+          <td><h3>Details for {{user.name}}</h3></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Name</td>
+          <td>{{user.name}}</td>
+      </tr>
+      <tr>
+          <td>Hobby #1</td>
+          <td>{{user.hobby1}}</td>
+      </tr>
+        <tr>
+          <td>Hobby #2</td>
+          <td>{{user.hobby2}}</td>
+      </tr>
+      <tr>
+          <td>Hobby #3</td>
+          <td>{{user.hobby3}}</td>
+      </tr>
+        <tr>
+          <td>Hobby #4</td>
+          <td>{{user.hobby4}}</td>
+      </tr>
+        <tr>
+          <td>Message</td>
+          <td>{{user.message}}</td>
+      </tr>
+  </table>
+  <div>
+      <a class="btn btn-primary" ui-sref="editUser({id:user.id})">Edit</a>
+  </div>
+</div>
