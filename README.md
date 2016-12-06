@@ -13,3 +13,21 @@
 <li>welcome page: localhost:8080/Hello.html?first=x&last2=y</li>
 <li>Main app: localhost:8080/index.html</li>
 </ul>
+<hr>
+<h3>To-do list</h3>
+<ul>
+<li>Add the final report as part of the implementation (ex. report.html)</li>
+</ul>
+<h6>References</h6>
+<ol>
+<li>
+<a href="https://app.pluralsight.com/library/courses/spring-boot-first-application/table-of-contents">Spring-boot app</a>
+</li>
+<li>
+<a href="https://app.pluralsight.com/library/courses/angularjs-get-started/table-of-contents">Spring-boot app</a>
+</li>
+<li>
+<a href="https://app.pluralsight.com/library/courses/spring-fundamentals/table-of-contents">Spring Fundamentals</a>
+</li>
+</ol>
+
