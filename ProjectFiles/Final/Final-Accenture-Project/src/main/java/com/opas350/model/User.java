@@ -1,7 +1,16 @@
 package com.opas350.model;
 
+import javax.annotation.Generated;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
 public class User {
 	
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	Long id;		// Id of User for DB
 	String name;
 	String hobby1;	// Name of the Hobby
