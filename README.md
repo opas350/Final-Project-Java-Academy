@@ -5,6 +5,7 @@
 <li>Create a page that allows user save their Hobbies through a form.</li>
 <li>Create a search page that shows hobbies per user.</li>
 <li>User information should be saved on session, system file or database.</li>
+</ol>
 <hr>
 <h3>Instructions</h3>
 <p>The project files are in the folder .\ProjectFiles\Final\Final-Accenture-Project</p>
