@@ -19,15 +19,15 @@
 <li>Add the final report as part of the implementation (ex. report.html)</li>
 </ul>
 <h6>References</h6>
-<ol>
+<ul>
 <li>
 <a href="https://app.pluralsight.com/library/courses/spring-boot-first-application/table-of-contents">Spring-boot app</a>
 </li>
 <li>
-<a href="https://app.pluralsight.com/library/courses/angularjs-get-started/table-of-contents">Spring-boot app</a>
+<a href="https://app.pluralsight.com/library/courses/angularjs-get-started/table-of-contents">Angular</a>
 </li>
 <li>
 <a href="https://app.pluralsight.com/library/courses/spring-fundamentals/table-of-contents">Spring Fundamentals</a>
 </li>
-</ol>
+</ul>
 
